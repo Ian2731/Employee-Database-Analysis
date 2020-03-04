@@ -8,8 +8,8 @@ I have designed tables to hold data in CSVs and have the ability to perform:
 -Data Analysis:
   
   -List details of each employee: 
-    -employee number 
-    -last name
-    -first name
-    -gender
-    -salary
+    (employee number)
+    (last name)
+    (first name)
+    (gender)
+    (salary)
